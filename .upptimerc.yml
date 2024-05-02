@@ -3,7 +3,7 @@ owner: gamingmithandicap # Your GitHub organization or username, where this repo
 repo: status # The name of this repository
 
 sites:
-  - name: GamingMitHandicap - Webseite & Forum
+  - name: Webseite & Forum
     url: https://www.gamingmithandicap.de
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
@@ -17,7 +17,7 @@ status-website:
   # cname: status2.gamhc.de
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: GamingMitHandicap - Status
+  name: Status - Gaming mit Handicap
   introTitle: "Gaming mit Handicap Status"
   introMessage: Dies ist die Status Seite von Gaming mit Handicap, die **Echtzeit-Daten** von unserem [GitHub repository](https://github.com/gamingmithandicap/status) verwendet. [**Erhalte kostenlos deine eigene Statusseite**](https://github.com/upptime/upptime)
   navbar:
