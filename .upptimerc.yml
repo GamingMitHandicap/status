@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GamingMitHandicap - Status
   introTitle: "Gaming mit Handicap Status"
-  introMessage: Dies ist die Status Seite von Gaming mit Handicap, die **Echtzeit** Daten von unserem [GitHub repository](https://github.com/gamingmithandicap/status) verwendet. [**Erhalte kostenlos deine eigene Statusseite**](https://github.com/upptime/upptime)
+  introMessage: Dies ist die Status Seite von Gaming mit Handicap, die **Echtzeit-Daten** von unserem [GitHub repository](https://github.com/gamingmithandicap/status) verwendet. [**Erhalte kostenlos deine eigene Statusseite**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
