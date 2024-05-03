@@ -33,19 +33,22 @@ status-website:
 i18n:
   activeIncidents: Aktuelle Vorfälle
   allSystemsOperational: Alle Systeme sind betriebsbereit
+  degradedPerformance: "🟨 Beeinträchtigte Leistung"
+  completeOutage: "🟥 Kompletter Ausfall"
+  partialOutage: "🟧 Teilweiser Ausfall"
   incidentReport: "Vorfallsbericht #$NUMBER →"
   activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
   incidentTitle: Vorfall $NUMBER Einzelheiten
   incidentDetails: Einzelheiten zum Vorfall
   incidentFixed: Behoben
   incidentOngoing: Laufend
-  incidentOpenedAt: Geöffnet um
-  incidentClosedAt: Geschlossen um
+  incidentOpenedAt: Geöffnet am
+  incidentClosedAt: Geschlossen am
   incidentViewOnGitHub: Auf GitHub ansehen und abonnieren
   incidentCommentSummary: Gepostet am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Vorfällen
   pastIncidents: Vergangene Vorfälle
-  pastIncidentsResolved: Behoben in $MINUTES Minuten mit $POSTS Beiträgen
+  pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Beiträgen
   liveStatus: Live Status
   overallUptime: "Gesamte Verfügbarkeit: $UPTIME"
   overallUptimeTitle: Gesamte Verfügbarkeit
@@ -78,10 +81,10 @@ i18n:
   errorHome: Zur Startseite gehen
   pastScheduledMaintenance: Vergangene geplante Wartung
   scheduledMaintenance: Geplante Wartung
-  scheduledMaintenanceSummaryStarted: Gestartet um $DATE für $DURATION Minuten
-  scheduledMaintenanceSummaryStarts: Beginnt um $DATE für $DURATION Minuten
-  startedAt: Gestartet um
-  startsAt: Beginnt um
+  scheduledMaintenanceSummaryStarted: Gestartet am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt am $DATE für $DURATION Minuten
+  startedAt: Gestartet am
+  startsAt: Beginnt am
   duration: Dauer
   durationMin: $DURATION Minuten
   incidentCompleted: Abgeschlossen
