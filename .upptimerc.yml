@@ -17,6 +17,7 @@ status-website:
   # cname: status2.gamhc.de
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: /status/blob/master/assets/favicon.png
   name: Status - Gaming mit Handicap
   introTitle: "Gaming mit Handicap Status"
   introMessage: Dies ist die Statusseite von Gaming mit Handicap, die **Echtzeit-Daten** von unserem [GitHub Repository](https://github.com/gamingmithandicap/status) verwendet.
@@ -28,3 +29,65 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Aktuelle Vorfälle
+  allSystemsOperational: Alle Systeme sind betriebsbereit
+  incidentReport: "Vorfallsbericht #$NUMBER →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
+  incidentTitle: Vorfall $NUMBER Einzelheiten
+  incidentDetails: Einzelheiten zum Vorfall
+  incidentFixed: Behoben
+  incidentOngoing: Laufend
+  incidentOpenedAt: Geöffnet um
+  incidentClosedAt: Geschlossen um
+  incidentViewOnGitHub: Auf GitHub ansehen und abonnieren
+  incidentCommentSummary: Gepostet am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: Behoben in $MINUTES Minuten mit $POSTS Beiträgen
+  liveStatus: Live Status
+  overallUptime: "Gesamte Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Gesamte Verfügbarkeit
+  averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Reaktionszeit
+  sevelDayResponseTime: 7 Tage Reaktionszeit
+  responseTimeMs: Reaktionszeit (ms)
+  up: Online
+  down: Offline
+  degraded: Degradiert
+  ms: ms
+  loading: Laden
+  navGitHub: GitHub
+  footer: Diese Seite ist [Open Source]($REPO) und wurde erstellt von [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Ratenlimit überschritten
+  rateLimitExceededIntro: Du hast die Anzahl der Anfragen, die du in einer Stunde ausführen kannst, überschritten. Du musst daher warten, bevor du diese Webseite erneut aufrufen kannst. Alternativ kannst du ein GitHub Personal Access Token hinzufügen, um diese Webseite weiterhin zu nutzen.
+  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
+  rateLimitExceededErrorMeaning: Diese Webseite verwendet die GitHub-API, um auf Echtzeitdaten über den Status unserer Webseiten & Dienste zuzugreifen. Standardmäßig lässt GitHub jeder IP-Adresse 60 Anfragen pro Stunde zu, die du verbraucht hast.
+  rateLimitExceededErrorHowCanFix: Wie kann ich das Problem beheben?
+  rateLimitExceededErrorFix: Du kannst noch eine Stunde warten, bis das Limit deiner IP-Adresse wiederhergestellt wird. Alternativ kannst du deinen GitHub Personal Access Token hinzufügen, wodurch du zusätzlich 5.000 Anfragen pro Stunde erhältst.
+  rateLimitExceededGeneratePAT: Erfahre, wie du deinen GitHub Personal Access Token generieren kannst.
+  rateLimitExceededHasSet: Du hast einen GitHub Personal Access Token gesetzt.
+  rateLimitExceededRemoveToken: Token entfernen
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Kopiere dein Token und füge ihn ein
+  rateLimitExceededSaveToken: Token speichern
+  errorTitle: Ein Fehler ist aufgetreten
+  errorIntro: Beim Versuch, die neuesten Statusdetails abzurufen, ist ein Fehler aufgetreten.
+  errorText: Du kannst es in ein paar Augenblicken noch einmal versuchen.
+  errorHome: Zur Startseite gehen
+  pastScheduledMaintenance: Vergangene geplante Wartung
+  scheduledMaintenance: Geplante Wartung
+  scheduledMaintenanceSummaryStarted: Gestartet um $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Beginnt um $DATE für $DURATION Minuten
+  startedAt: Gestartet um
+  startsAt: Beginnt um
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: alle
