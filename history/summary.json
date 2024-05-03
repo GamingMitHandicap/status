@@ -4,19 +4,17 @@
     "url": "https://www.gamingmithandicap.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.gamingmithandicap.de.ico",
     "slug": "webseite-and-forum",
-    "status": "up",
-    "uptime": "3.86%",
-    "uptimeDay": "3.86%",
-    "uptimeWeek": "3.86%",
-    "uptimeMonth": "3.86%",
-    "uptimeYear": "3.86%",
-    "time": 908,
-    "timeDay": 908,
-    "timeWeek": 908,
-    "timeMonth": 908,
-    "timeYear": 908,
-    "dailyMinutesDown": {
-      "2024-05-02": 162
-    }
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 768,
+    "timeDay": 768,
+    "timeWeek": 768,
+    "timeMonth": 768,
+    "timeYear": 768,
+    "dailyMinutesDown": {}
   }
 ]
