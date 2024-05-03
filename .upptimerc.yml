@@ -73,7 +73,7 @@ i18n:
   rateLimitExceededHasSet: Du hast einen GitHub Personal Access Token gesetzt.
   rateLimitExceededRemoveToken: Token entfernen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Kopiere dein Token und füge ihn ein
+  rateLimitExceededCopyPastePAT: Füge dein Token hier ein
   rateLimitExceededSaveToken: Token speichern
   errorTitle: Ein Fehler ist aufgetreten
   errorIntro: Beim Versuch, die neuesten Statusdetails abzurufen, ist ein Fehler aufgetreten.
