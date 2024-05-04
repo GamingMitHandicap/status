@@ -5,11 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Webseite & Forum
     url: https://www.gamingmithandicap.de
-#  - name: Wikipedia
-#    url: https://en.wikipedia.org
-#    port: 80
-#    check: "tcp-ping"
-#    ipv6: true
+  - name: TeamSpeak 3 Server
+    url: server.gamingmithandicap.de
+    port: 10011
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -50,8 +49,8 @@ i18n:
   pastIncidents: Vergangene Vorfälle
   pastIncidentsResolved: Behoben nach $MINUTES Minuten mit $POSTS Beiträgen
   liveStatus: Live Status
-  overallUptime: "Gesamte Verfügbarkeit: $UPTIME"
-  overallUptimeTitle: Gesamte Verfügbarkeit
+  overallUptime: "Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Verfügbarkeit
   averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
   averageResponseTimeTitle: Durchschnittliche Reaktionszeit
   sevelDayResponseTime: 7 Tage Reaktionszeit
