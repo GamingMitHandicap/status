@@ -35,7 +35,7 @@ status-website:
     - title: Webseite
       href: https://www.gamingmithandicap.de
     - title: Status
-      href: /status
+      href: https://status.gamingmithandicap.de
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
