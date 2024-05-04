@@ -6,14 +6,17 @@ sites:
   - name: Webseite & Forum
     url: https://www.gamingmithandicap.de
   - name: TeamSpeak 3 Server
+    # icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/ts3_icon.png
     url: server.gamingmithandicap.de
     port: 10011
     check: "tcp-ping"
   - name: Minecraft Server
+    # icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/mc_icon.png
     url: server.gamingmithandicap.de
     port: 25565
     check: "tcp-ping"
   - name: GTA 5 Server
+    # icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png
     url: server.gamingmithandicap.de
     port: 22005
     check: "tcp-ping"
@@ -21,8 +24,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status2.gamhc.de
-  baseUrl: /status
+  cname: status.gamingmithandicap.de
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/logo.png
   favicon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/favicon.png
   name: Status - Gaming mit Handicap
