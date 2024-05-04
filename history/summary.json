@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gamingmithandicap.de.ico",
     "slug": "webseite-and-forum",
     "status": "up",
-    "uptime": "88.58%",
+    "uptime": "91.90%",
     "uptimeDay": "99.17%",
-    "uptimeWeek": "88.58%",
-    "uptimeMonth": "88.58%",
-    "uptimeYear": "88.58%",
+    "uptimeWeek": "91.90%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "91.90%",
     "time": 847,
     "timeDay": 887,
     "timeWeek": 847,
@@ -19,5 +19,23 @@
       "2024-05-03": 12,
       "2024-05-02": 162
     }
+  },
+  {
+    "name": "TeamSpeak 3 Server",
+    "url": "server.gamingmithandicap.de",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "team-speak-3-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
+    "dailyMinutesDown": {}
   }
 ]
