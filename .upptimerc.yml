@@ -9,6 +9,14 @@ sites:
     url: server.gamingmithandicap.de
     port: 10011
     check: "tcp-ping"
+  - name: Minecraft Server
+    url: server.gamingmithandicap.de
+    port: 25565
+    check: "tcp-ping"
+  - name: GTA 5 Server
+    url: server.gamingmithandicap.de
+    port: 22005
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,6 +29,8 @@ status-website:
   introTitle: "Gaming mit Handicap Status"
   introMessage: Dies ist die Statusseite von Gaming mit Handicap, die **Echtzeit-Daten** von unserem [GitHub Repository](https://github.com/gamingmithandicap/status) verwendet.
   navbar:
+    - title: Webseite
+      href: https://www.gamingmithandicap.de
     - title: Status
       href: /status
     - title: GitHub
@@ -31,7 +41,7 @@ status-website:
 
 i18n:
   activeIncidents: Aktuelle Vorfälle
-  allSystemsOperational: Alle Systeme sind betriebsbereit
+  allSystemsOperational: Alle Systeme sind verfügbar
   degradedPerformance: "🟨 Beeinträchtigte Leistung"
   completeOutage: "🟥 Kompletter Ausfall"
   partialOutage: "🟧 Teilweiser Ausfall"
