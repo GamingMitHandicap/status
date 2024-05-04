@@ -1,6 +1,6 @@
 # [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟧 Teilweiser Ausfall**
 
-Dieses Repository enthält den Open-Source-Verfügbarkeitsmonitor und die Statusseite von [Gaming mit Handicap](https://gamingmithandicap.github.io/status). Erstellt von [Upptime](https://github.com/upptime/upptime).
+Dieses Repository enthält den Open-Source-Verfügbarkeitsmonitor und die Statusseite von [Gaming mit Handicap](https://www.gamingmithandicap.de). Erstellt von [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/gamingmithandicap/status/workflows/Uptime%20CI/badge.svg)](https://github.com/gamingmithandicap/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/gamingmithandicap/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/gamingmithandicap/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -23,7 +23,7 @@ Mit [Upptime](https://upptime.js.org) kannst du deine/n eigene/n unbegrenzte/n u
 
 <!--end: status pages-->
 
-[**Besuche unsere Status-Webseite →**](https://gamingmithandicap.github.io/status)
+[**Besuche unsere Status-Webseite →**](https://status.gamingmithandicap.de)
 
 ## 📄 Lizenz
 
