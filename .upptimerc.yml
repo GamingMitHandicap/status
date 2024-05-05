@@ -43,6 +43,11 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
+  url: "Link"
+  status: "Status"
+  history: "Verlauf"
+  responseTime: "Reaktionszeit"
+  uptime: "Verfügbarkeit"
   activeIncidents: Aktuelle Vorfälle
   allSystemsOperational: Alle Systeme sind verfügbar
   degradedPerformance: "🟨 Beeinträchtigte Leistung"
