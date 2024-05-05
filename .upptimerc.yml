@@ -74,7 +74,7 @@ i18n:
   ms: ms
   loading: Laden
   navGitHub: GitHub
-  footer: Diese Seite wurde erstellt von [Upptime](https://upptime.js.org)
+  footer: Diese Seite ist [Open Source](https://github.com/upptime/upptime) und wurde erstellt von [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Anfragen Limit überschritten
   rateLimitExceededIntro: Du hast die Anzahl der Anfragen, die du in einer Stunde ausführen kannst, überschritten. Du musst daher warten, bevor du diese Webseite erneut aufrufen kannst. Alternativ kannst du ein GitHub Personal Access Token hinzufügen, um diese Webseite weiterhin zu nutzen.
   rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
