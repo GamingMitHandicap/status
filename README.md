@@ -30,3 +30,5 @@ Mit [Upptime](https://upptime.js.org) kannst du deine/n eigene/n unbegrenzte/n u
 - Erstellt von: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), unterstützt durch [Pabio](https://pabio.com)
 - Daten in dem `./history` Ordner: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Minecraft & GTA 5 icon von: [dedg3](https://tsicons.com/user/dedg3)
+- TeamSpeak 3 icon von: [dAKirby309 (Michael)](https://icon-icons.com/de/pack/Simply-Styled-Icons/195)
