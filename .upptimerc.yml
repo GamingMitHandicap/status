@@ -46,8 +46,17 @@ i18n:
   url: "Link"
   status: "Status"
   history: "Verlauf"
+  responseTimeGraphAlt: "Reaktionszeit-Diagramm"
   responseTime: "Reaktionszeit"
+  responseTimeDay: "24-Stunden Reaktionszeit"
+  responseTimeWeek: "7-Tage Reaktionszeit"
+  responseTimeMonth: "30-Tage Reaktionszeit"
+  responseTimeYear: "1-Tag Reaktionszeit"
   uptime: "Verfügbarkeit"
+  uptimeDay: "24-Stunden Verfügbarkeit"
+  uptimeWeek: "7-Tage Verfügbarkeit"
+  uptimeMonth: "30-Tage Verfügbarkeit"
+  uptimeYear: "1-Jahr Verfügbarkeit"
   activeIncidents: Aktuelle Vorfälle
   allSystemsOperational: Alle Systeme sind verfügbar
   degradedPerformance: "🟨 Beeinträchtigte Leistung"
@@ -61,6 +70,7 @@ i18n:
   incidentOngoing: Laufend
   incidentOpenedAt: Geöffnet am
   incidentClosedAt: Geschlossen am
+  incidentResolved: "Behoben: $PAGE ist wieder verfügbar in $POST nach $DURATION Minuten"
   incidentViewOnGitHub: Auf GitHub ansehen und abonnieren
   incidentCommentSummary: Gepostet am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Vorfällen
