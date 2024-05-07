@@ -18,7 +18,7 @@ sites:
   - name: GTA 5 Server
     icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png
     url: play.gamhc.de
-    port: 22005
+    port: 22006
     check: "tcp-ping"
 
 status-website:
