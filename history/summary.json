@@ -1,52 +1,32 @@
 [
   {
-    "name": "Webseite & Forum",
+    "name": "Webseite",
     "url": "https://www.gamingmithandicap.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.gamingmithandicap.de.ico",
-    "slug": "webseite-and-forum",
+    "slug": "webseite",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 999,
-    "timeDay": 768,
-    "timeWeek": 768,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "time": 558,
+    "timeDay": 558,
+    "timeWeek": 558,
+    "timeMonth": 558,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
-    "name": "TeamSpeak 3 Server",
-    "url": "server.gamingmithandicap.de",
-    "icon": "https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/ts3_icon.png",
-    "slug": "team-speak-3-server",
-    "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-12-06": 3
-    }
-  },
-  {
     "name": "Minecraft Server",
-    "url": "server.gamingmithandicap.de",
+    "url": "mc.gamhc.de",
     "icon": "https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/mc_icon.png",
     "slug": "minecraft-server",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 113,
     "timeDay": 0,
@@ -54,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 1
+      "2025-12-06": 14
     }
   },
   {
@@ -63,18 +43,18 @@
     "icon": "https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "86.14%",
-    "uptimeDay": "86.14%",
-    "uptimeWeek": "86.14%",
-    "uptimeMonth": "86.14%",
-    "uptimeYear": "86.14%",
+    "uptime": "9.13%",
+    "uptimeDay": "9.13%",
+    "uptimeWeek": "9.13%",
+    "uptimeMonth": "9.13%",
+    "uptimeYear": "9.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 0
+      "2025-12-06": 12
     }
   }
 ]
