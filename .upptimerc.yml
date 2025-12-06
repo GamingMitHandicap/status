@@ -15,11 +15,13 @@ sites:
     url: mc.gamhc.de
     port: 25565
     check: "tcp-ping"
+    ipv6: true
   - name: FiveM Server
     icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png
     url: play.gamhc.de
     port: 30120
     check: "tcp-ping"
+    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
