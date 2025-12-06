@@ -15,7 +15,7 @@ sites:
     url: server.gamingmithandicap.de
     port: 25565
     check: "tcp-ping"
-  - name: GTA 5 Server
+  - name: FiveM Server
     icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png
     url: play.gamhc.de
     port: 30120
