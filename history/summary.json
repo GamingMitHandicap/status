@@ -24,7 +24,7 @@
     "slug": "team-speak-3-server",
     "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "99.82%",
+    "uptimeDay": "99.81%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,7 @@
     "slug": "minecraft-server",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "99.91%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -63,16 +63,18 @@
     "icon": "https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "86.14%",
+    "uptimeDay": "86.14%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "86.14%",
+    "uptimeYear": "86.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 0
+    }
   }
 ]
