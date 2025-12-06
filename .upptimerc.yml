@@ -7,21 +7,19 @@ sites:
     url: https://www.gamingmithandicap.de
   #- name: TeamSpeak 3 Server
   #  icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/ts3_icon.png
-  #  url: server.gamingmithandicap.de
+  #  url: server.gamhc.de
   #  port: 10011
   #  check: "tcp-ping"
   - name: Minecraft Server
     icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/mc_icon.png
-    url: mc.gamhc.de
+    url: server.gamhc.de
     port: 25565
     check: "tcp-ping"
-    ipv6: true
   - name: FiveM Server
     icon: https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png
-    url: play.gamhc.de
+    url: server.gamhc.de
     port: 30120
     check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
