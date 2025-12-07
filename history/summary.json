@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 587,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 641,
+    "timeDay": 641,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 105,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2025-12-06": 34
     }
@@ -43,16 +43,16 @@
     "icon": "https://raw.githubusercontent.com/gamingmithandicap/status/master/assets/gta5_icon.png",
     "slug": "five-m-server",
     "status": "up",
-    "uptime": "18.48%",
-    "uptimeDay": "18.48%",
-    "uptimeWeek": "18.48%",
-    "uptimeMonth": "18.48%",
-    "uptimeYear": "18.48%",
-    "time": 104,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "uptime": "95.59%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "95.59%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2025-12-06": 33
     }
